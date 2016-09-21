@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 GitHub, Inc. All rights reserved.
 //
 
-#import "RACSubscriber.h"
+#import <ReactiveCocoa/RACSubscriber.h>
 
 // A simple block-based subscriber.
 @interface RACSubscriber : NSObject <RACSubscriber>

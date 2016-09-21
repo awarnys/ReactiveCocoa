@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 GitHub, Inc. All rights reserved.
 //
 
-#import "RACStream.h"
+#import <ReactiveCocoa/RACStream.h>
 
 @interface RACStream ()
 
